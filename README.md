@@ -61,10 +61,12 @@ Connect with real-time data sources
 AUTHOR = TAUSIF RAZA
 
 
-pbi db =https://github.com/Tausif007-DA/supply-chain-intelligence-powerbi-sql/blob/main/Screenshot%202026-03-03%20163452.png
+pbi db =https://github.com/Tausif007-DA/supply-chain-intelligence-powerbi-sql/blob/main/Screenshot%202026-03-03%20163452.png   (supply chain performance intelligence)
 
 https://github.com/Tausif007-DA/supply-chain-intelligence-powerbi-sql/blob/main/Screenshot%202026-03-03%20163513.png
+(operational risk and bottle neck analysis)
+
 
 https://github.com/Tausif007-DA/supply-chain-intelligence-powerbi-sql/blob/main/Screenshot%202026-03-03%20163543.png
-
+(strategic performance summery)
 
