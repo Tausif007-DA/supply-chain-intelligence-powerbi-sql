@@ -59,3 +59,7 @@ Implement inventory forecasting
 Connect with real-time data sources
 
 AUTHOR = TAUSIF RAZA
+
+
+pbi db =https://github.com/Tausif007-DA/supply-chain-intelligence-powerbi-sql/blob/main/Screenshot%202026-03-03%20163452.png
+
