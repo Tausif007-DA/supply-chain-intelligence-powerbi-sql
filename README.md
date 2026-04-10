@@ -60,6 +60,27 @@ Connect with real-time data sources
 
 AUTHOR = TAUSIF RAZA
 
+## 📊 Dashboard Visuals
+
+### 1. Supply Chain Performance Intelligence
+<p align="center">
+  <img src="Screenshot%202026-03-03%20163452.png" width="900">
+</p>
+
+### 2. Operational Risk & Bottleneck Analysis
+<p align="center">
+  <img src="Screenshot%202026-03-03%20163513.png" width="900">
+</p>
+
+### 3. Strategic Performance Summary
+<p align="center">
+  <img src="Screenshot%202026-03-03%20163543.png" width="900">
+</p>
+
+
+![Performance Intelligence](Screenshot%202026-03-03%20163452.png)
+![Risk Analysis](Screenshot%202026-03-03%20163513.png)
+![Performance Summary](Screenshot%202026-03-03%20163543.png)
 
 pbi db =https://github.com/Tausif007-DA/supply-chain-intelligence-powerbi-sql/blob/main/Screenshot%202026-03-03%20163452.png   (supply chain performance intelligence)
 
